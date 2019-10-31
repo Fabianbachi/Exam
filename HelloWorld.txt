@@ -1,1 +1,2 @@
 System.out("Hello World");
+System.out("Test erfolgreich");
